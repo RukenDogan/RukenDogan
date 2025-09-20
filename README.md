@@ -20,6 +20,8 @@
 ### Back-end
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ### Bases de données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,7 +63,7 @@ Quelques projets récents :
 ## 📫 Contact
 
 - ✉️ Email : [M'envoyer un mail](mailto:ruken.dogan@gmail.com)
-- 💻 Portfolio : [Profil Portfolio](https://rukendogan.github.io/portfolio/)
+- 💻 Portfolio : [Portfolio](https://rukendogan.github.io/portfolio/)
 - 🔗 LinkedIn : [Profil LinkedIn](https://www.linkedin.com/in/ruken-d-84247435b/)
 - 📝 CodePen : [Profil CodePen](https://codepen.io/RukenDogan)
 
