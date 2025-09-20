@@ -55,16 +55,15 @@ Quelques projets récents :
 - **Space Invaders** : Projet personnel en Python [Repo](https://github.com/RukenDogan/space_invaders)
 - **Projet IoT de santé** : Projet hardware prototype de bracelet connecté au cours de la formation IT-Akademy [Repo](https://github.com/RukenDogan/projet-iot-Cardioberry)
 - **Application Météo** : Projet en React Native [Repo](https://github.com/RukenDogan/app-meteo)
-- **Animation "Game Over" CSS** : Projet perso en CSS [Repo](https://github.com/RukenDogan/gameOver_css)
 
 ---
 
 ## 📫 Contact
 
 - ✉️ Email : [M'envoyer un mail](mailto:ruken.dogan@gmail.com)
-- 💻 Portfolio : [ProfilPortfolio](https://rukendogan.github.io/portfolio/)
-- 🔗 LinkedIn : [ProfilLinkedIn](https://www.linkedin.com/in/ruken-d-84247435b/)
-- 📝 CodePen : [ProfilCodePen](https://codepen.io/RukenDogan)
+- 💻 Portfolio : [Profil Portfolio](https://rukendogan.github.io/portfolio/)
+- 🔗 LinkedIn : [Profil LinkedIn](https://www.linkedin.com/in/ruken-d-84247435b/)
+- 📝 CodePen : [Profil CodePen](https://codepen.io/RukenDogan)
 
 ---
 
