@@ -45,8 +45,6 @@
 
 ---
 
-## 🌱 Formation autodidacte
-
 ## 📚 Formation autodidacte
 <p>
   <a href="https://openclassrooms.com" target="_blank">
