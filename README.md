@@ -50,19 +50,19 @@
 ## 📚 Formation autodidacte
 <p>
   <a href="https://openclassrooms.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/330px-Logo_OpenClassrooms.png" alt="OpenClassrooms" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/330px-Logo_OpenClassrooms.png" alt="OpenClassrooms" height="70"/>
   </a>
   &nbsp;
   <a href="https://www.codedex.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" alt="Codédex" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" alt="Codédex" height="70"/>
   </a>
   &nbsp;
   <a href="https://www.coursera.org/" target="_blank">
-    <img src="https://camo.githubusercontent.com/ee98cdbfbfaf2396a59bd254e74f22829730ea61c653b2f0c198363f2e71d42e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39372f436f7572736572612d4c6f676f5f363030783630302e7376672f3230343870782d436f7572736572612d4c6f676f5f363030783630302e7376672e706e67" alt="Coursera" height="40"/>
+    <img src="https://camo.githubusercontent.com/ee98cdbfbfaf2396a59bd254e74f22829730ea61c653b2f0c198363f2e71d42e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39372f436f7572736572612d4c6f676f5f363030783630302e7376672f3230343870782d436f7572736572612d4c6f676f5f363030783630302e7376672e706e67" alt="Coursera" height="70"/>
   </a>
   &nbsp;
   <a href="https://www.freecodecamp.org/" target="_blank">
-    <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" alt="FreeCodeCamp" height="40"/>
+    <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" alt="FreeCodeCamp" height="70"/>
   </a>
 </p>
 
