@@ -55,7 +55,7 @@ Je me forme également en autodidacte sur :
 
 Quelques projets récents :  
 - **Space Invaders** : Projet personnel en Python [Repo](https://github.com/RukenDogan/space_invaders)
-- **Projet IoT de santé** : Projet hardware prototype de bracelet connecté au cours de la formation IT-Akademy [Repo](https://github.com/RukenDogan/projet-iot-Cardioberry)
+- **Projet IoT** : Prototype de bracelet connecté orienté santé sur Raspberry Pi [Repo](https://github.com/RukenDogan/projet-iot-Cardioberry)
 - **Application Météo** : Projet en React Native [Repo](https://github.com/RukenDogan/app-meteo)
 
 ---
