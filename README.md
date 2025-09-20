@@ -40,8 +40,6 @@
 
 ### Hardware
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Capteurs](https://img.shields.io/badge/Capteurs-4CAF50?style=for-the-badge)
-![Ecran LCD](https://img.shields.io/badge/Ecran_LCD-009688?style=for-the-badge)
 
 ---
 
