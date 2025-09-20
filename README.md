@@ -22,7 +22,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
 ### Bases de données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -39,21 +38,38 @@
 ![MVC](https://img.shields.io/badge/MVC-2196F3?style=for-the-badge)
 ![API-REST](https://img.shields.io/badge/API--REST-FF9800?style=for-the-badge)
 
+### Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Capteurs](https://img.shields.io/badge/Capteurs-4CAF50?style=for-the-badge)
+![Ecran LCD](https://img.shields.io/badge/Ecran_LCD-009688?style=for-the-badge)
+
 ---
 
-## 🌱 Formation & Apprentissage
+## 🌱 Formation autodidacte
 
-Je me forme également en autodidacte sur :  
-- [OpenClassrooms](https://openclassrooms.com)
-- [Codédex](https://www.codedex.com/)  
-- [Coursera](https://www.coursera.org/)  
-- [FreeCodeCamp](https://www.freecodecamp.org/)     
+<p>
+  <a href="https://openclassrooms.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/OpenClassrooms_Logo.svg" alt="OpenClassrooms" width="120"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codedex.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" alt="Codédex" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.coursera.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Coursera_logo_2020.svg" alt="Coursera" width="90"/>
+  </a>
+  &nbsp;
+  <a href="https://www.freecodecamp.org/" target="_blank">
+    <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" alt="FreeCodeCamp" width="120"/>
+  </a>
+</p>  
 
 ---
 
 ## 📂 Projets
 
-Quelques projets récents :  
+Quelques projets récents (CF les repos épinglés plus bas) :  
 - **Space Invaders** : Projet personnel en Python [Repo](https://github.com/RukenDogan/space_invaders)
 - **Projet IoT** : Prototype de bracelet connecté orienté santé sur Raspberry Pi [Repo](https://github.com/RukenDogan/projet-iot-Cardioberry)
 - **Application Météo** : Projet en React Native [Repo](https://github.com/RukenDogan/app-meteo)
