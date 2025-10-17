@@ -1,15 +1,15 @@
-# 👋 Bienvenue sur mon GitHub !
+# Bienvenue sur mon GitHub !
 
-## 💻 À propos de moi
+## À propos de moi
 
-- 🌱 Actuellement en formation pour devenir Développeuse Full Stack  
-- ⚡ J’adore explorer de nouvelles technologies et créer des projets concrets  
-- 🎯 Je suis motivée par la programmation et l’apprentissage continu  
+- Actuellement en formation pour devenir Développeuse Full Stack  
+- J’adore explorer de nouvelles technologies et créer des projets concrets  
+- Je suis motivée par la programmation et l’apprentissage continu  
 
 ---
 
 
-## 🛠 Stacks sur lesquelles j'ai travaillé
+## Stacks sur lesquelles j'ai travaillé
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-## 📚 Formation autodidacte
+## Formation autodidacte
 <p>
   <a href="https://openclassrooms.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_OpenClassrooms.png/330px-Logo_OpenClassrooms.png" alt="OpenClassrooms" height="70"/>
@@ -64,7 +64,7 @@
 
 ---
 
-## 📂 Projets
+## Projets
 
 Quelques projets récents (CF les repos épinglés plus bas) :  
 - **Space Invaders** : Projet personnel en Python [Repo](https://github.com/RukenDogan/space_invaders)
@@ -73,7 +73,7 @@ Quelques projets récents (CF les repos épinglés plus bas) :
 
 ---
 
-## 📫 Contact
+## Contact
 
 - ✉️ Email : [M'envoyer un mail](mailto:ruken.dogan@gmail.com)
 - 💻 Portfolio : [Portfolio](https://rukendogan.github.io/portfolio/)
